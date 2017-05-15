@@ -5,6 +5,7 @@
  2. `mvn install`
 
 ## Run
+Run the applications in the same order as they're listed below.  
 
 ### Producer 
  1. `cd rivta-bp21-refapp-producer`  
